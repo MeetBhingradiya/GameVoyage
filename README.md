@@ -1,4 +1,3 @@
-
 <p align="center">
 <img 
 src="./Icon.GameVoyage.png" 
@@ -46,7 +45,6 @@ GameVoyage represents a groundbreaking approach to game discovery, offering user
 + [GameVoyage Website](https://gamevoyage.vercel.app/)
 + [GitHub Repository](https://github.com/meetbhingradiya/GameVoyage)
 + [Project Management Board](https://carbonated-sunday-809.notion.site/GameVoyage-49564a572b754845b4f23198df714bbb?pvs=4)
-+ [Figma Design](https://www.figma.com/design/GCzuk1kzRwITkg61c4kvbP/Untitled?node-id=0-1&t=smNSgFR2lJH3eXOo-0)
 
 ## License
 This Project is Licensed under the GPL-3.0 License - see the [LICENSE](/LICENSE) file for details.
