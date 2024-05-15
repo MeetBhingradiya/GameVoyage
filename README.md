@@ -1,14 +1,13 @@
 
-<center>
+<p align="center">
 <img 
 src="./Icon.GameVoyage.png" 
 alt="Project Status: In Progress"
 width="350px"
 height="350px">
 <h1>GameVoyage</h1>
-</center>
+</p>
 
-## Overview
 GameVoyage is an innovative platform designed to revolutionize how gamers discover new games tailored to their preferences. Utilizing Next.js and modern web technologies, GameVoyage offers a dynamic and interactive experience for users to explore a vast array of gaming titles.
 
 ## Features
